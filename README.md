@@ -59,7 +59,7 @@ This tutorial will guide you through the steps to use the HTML Link Scraper scri
 2. Run the script by executing the following command:
 
    ```
-   python html_link_scraper.py
+   python Telegram-Backup-Link-Scraper.py
    ```
 
 ### Step 4: Select Options
