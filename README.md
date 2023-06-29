@@ -25,6 +25,7 @@ This Python script allows you to scrape links from HTML files and save them to d
 - Python 3.x
 - BeautifulSoup library (bs4)
 - colorama library
+- PySimpleGUI
 
 ### License
 
