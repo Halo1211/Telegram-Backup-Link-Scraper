@@ -30,7 +30,7 @@ This Python script allows you to scrape links from HTML files and save them to d
 
 This project is licensed under the [MIT License](LICENSE).
 
-Sure! Here's a tutorial on how to use this script:
+
 
 ## HTML Link Scraper - Usage Tutorial
 
