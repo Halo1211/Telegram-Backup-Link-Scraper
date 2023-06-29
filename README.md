@@ -45,7 +45,7 @@ This tutorial will guide you through the steps to use the HTML Link Scraper scri
 3. Install the required dependencies by running the following command in your command-line interface:
 
    ```
-   pip install beautifulsoup4 colorama
+   pip install beautifulsoup4 colorama PySimpleGUI
    ```
 
 ### Step 2: Prepare HTML Files
